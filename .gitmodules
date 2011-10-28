@@ -40,3 +40,27 @@
 [submodule "bundle/snipmate-snippets"]
 	path = bundle/snipmate-snippets
 	url = https://github.com/honza/snipmate-snippets.git
+[submodule "bundle/vim-addon-delphi"]
+	path = bundle/vim-addon-delphi
+	url = https://github.com/MarcWeber/vim-addon-delphi.git
+[submodule "bundle/vim-addon-views"]
+	path = bundle/vim-addon-views
+	url = https://github.com/MarcWeber/vim-addon-views.git
+[submodule "bundle/vim-addon-toggle-buffer"]
+	path = bundle/vim-addon-toggle-buffer
+	url = https://github.com/MarcWeber/vim-addon-toggle-buffer.git
+[submodule "bundle/vim-addon-actions"]
+	path = bundle/vim-addon-actions
+	url = https://github.com/MarcWeber/vim-addon-actions.git
+[submodule "bundle/vim-addon-goto-thing-at-cursor"]
+	path = bundle/vim-addon-goto-thing-at-cursor
+	url = https://github.com/MarcWeber/vim-addon-goto-thing-at-cursor.git
+[submodule "bundle/vim-addon-background-cmd"]
+	path = bundle/vim-addon-background-cmd
+	url = https://github.com/MarcWeber/vim-addon-background-cmd.git
+[submodule "bundle/vim-addon-completion"]
+	path = bundle/vim-addon-completion
+	url = https://github.com/MarcWeber/vim-addon-completion.git
+[submodule "bundle/vim-indent-guides"]
+	path = bundle/vim-indent-guides
+	url = https://github.com/nathanaelkane/vim-indent-guides.git
