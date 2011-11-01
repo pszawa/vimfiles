@@ -64,3 +64,6 @@
 [submodule "bundle/vim-indent-guides"]
 	path = bundle/vim-indent-guides
 	url = https://github.com/nathanaelkane/vim-indent-guides.git
+[submodule "bundle/vim-showmarks"]
+	path = bundle/vim-showmarks
+	url = https://github.com/garbas/vim-showmarks.git
