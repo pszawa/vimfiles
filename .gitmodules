@@ -76,3 +76,15 @@
 [submodule "bundle/wmgraphviz"]
 	path = bundle/wmgraphviz
 	url = http://github.com/wannesm/wmgraphviz.vim.git
+[submodule "bundle\\vim-showmarks"]
+	path = bundle\\vim-showmarks
+	url = git://github.com/xsunsmile/showmarks.git
+[submodule "bundle\\vim-utl.vim"]
+	path = bundle\\vim-utl.vim
+	url = git://github.com/vim-scripts/utl.vim.git
+[submodule "bundle\\vim-calendar"]
+	path = bundle\\vim-calendar
+	url = git://github.com/mattn/calendar-vim.git
+[submodule "bundle\\vim-shell"]
+	path = bundle\\vim-shell
+	url = git://github.com/xolox/vim-shell.git
