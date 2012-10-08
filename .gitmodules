@@ -64,6 +64,15 @@
 [submodule "bundle/vim-indent-guides"]
 	path = bundle/vim-indent-guides
 	url = https://github.com/nathanaelkane/vim-indent-guides.git
-[submodule "bundle/vim-showmarks"]
-	path = bundle/vim-showmarks
-	url = https://github.com/garbas/vim-showmarks.git
+[submodule "bundle/Figlet.vim"]
+	path = bundle/Figlet.vim
+	url = https://github.com/vim-scripts/Figlet.vim.git
+[submodule "bundle\\nerdcommenter"]
+	path = bundle\\nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
+[submodule "bundle\\taglist"]
+	path = bundle\\taglist
+	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/wmgraphviz"]
+	path = bundle/wmgraphviz
+	url = http://github.com/wannesm/wmgraphviz.vim.git
