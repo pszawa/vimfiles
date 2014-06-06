@@ -100,3 +100,9 @@
 [submodule "bundle/minibufexpl"]
 	path = bundle/minibufexpl
 	url = https://github.com/fholgado/minibufexpl.vim
+[submodule "bundle/instant-markdown"]
+	path = bundle/instant-markdown
+	url = https://github.com/vim-scripts/instant-markdown.vim.git
+[submodule "bundle/vim-markdown-preview"]
+	path = bundle/vim-markdown-preview
+	url = https://github.com/nelstrom/vim-markdown-preview.git
