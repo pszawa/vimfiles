@@ -1,3 +1,21 @@
+[submodule "taglist"]
+	path = bundle/taglist
+	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "vim-calendar"]
+	path = bundle/vim-calendar
+	url = https://github.com/mattn/calendar-vim.git
+[submodule "vim-shell"]
+	path = bundle/vim-shell
+	url = https://github.com/xolox/vim-shell.git
+[submodule "vim-utl"]
+	path = bundle/vim-utl.vim
+	url = https://github.com/vim-scripts/utl.vim.git
+[submodule "VimOrganizer"]
+	path = bundle/VimOrganizer
+	url = https://github.com/hsitz/VimOrganizer.git
+[submodule "nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
 [submodule "vim-pathogen"]
 	path = vim-pathogen
 	url = https://github.com/tpope/vim-pathogen.git
